@@ -15,12 +15,15 @@
 
 
 
-## Gitinore file usage
+## .Gitinore file usage
+The gitinore file will be used 
 
-how many repositories will be used to separate submissions
 
-## Credentials storage
-Personal credentials will not be displayed on github as this is a collaborative envirnment and personal information should not be shared with the collaborators in my projects. 
+## storage of credentials and sensitive information
+Personal credentials will not be displayed on github as this is a collaborative envirnment and personal information should not be shared with the collaborators in my projects. I will use git-credential-store to keep all my passwords. And nomally files like passwords and API keys (credentials)
+can be always be stored in the .gitignore.
+
+<br />For further Security of my Github account:
 Disabling forking will be of great benefit as i would not want other people making changes or taking some of my work. Usage of Github teams and two-factor authentication will be handy.
 
 
