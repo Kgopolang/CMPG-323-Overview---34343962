@@ -12,6 +12,7 @@
 <br /> For each project submission, an url link of each repository will be copied from Github and pasted on the forms for successful submissions. There will be 5 repositories under 1 project. Each repository represents 5 projects.
 
 ## Repository Context And Integration
+One project will be used for all the five reporitories. the repositories will be linked to the CMPG 323- Semester Plan project.
 
 
 
