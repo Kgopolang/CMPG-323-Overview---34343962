@@ -16,7 +16,7 @@
 
 
 ## .Gitinore file usage
-The gitinore file will be used to keep files from the repository that i do not want people to hhave access to like log file, sensentive information and plans for my upcoming projects. 
+The gitinore file will be used to keep files from the repository that i do not want people to have access to like log file, sensentive information and plans for my upcoming projects. 
 
 
 ## storage of credentials and sensitive information
