@@ -27,4 +27,21 @@ can be always be stored in the .gitignore.
 <br />For further Security of my Github account:
 Disabling forking will be of great benefit as i would not want other people making changes or taking some of my work. Usage of Github teams and two-factor authentication will be handy.
 
+##Project Charts
+
+Number of Items by Label
+
+<img width="888" alt="number of items by label chart" src="https://user-images.githubusercontent.com/91874692/202673912-9b1edd55-e409-47b5-9b04-771812cf3633.png">
+
+
+Number of items by Status 
+
+<img width="617" alt="status chart" src="https://user-images.githubusercontent.com/91874692/202674050-3b9b2417-998d-48cf-881f-82411ebbded4.png">
+
+
+Number of items by Sprint
+
+<img width="893" alt="number of items by sprint" src="https://user-images.githubusercontent.com/91874692/202674127-0521739f-df92-4fb1-bd16-dd9bdcb6185f.png">
+
+
 
