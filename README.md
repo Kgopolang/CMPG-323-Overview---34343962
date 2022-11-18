@@ -3,7 +3,7 @@
 
 
 ## Repositories For Projects:
-<br />  Project 1: CMPG-323-Overview---34343962
+<br />  Project 1: https://github.com/Kgopolang/CMPG-323-Overview---34343962
 <br />  Project 2: https://github.com/Kgopolang/CMPG-323-Project-2--34343962
 <br /> Project 3: https://github.com/Kgopolang/CMPG-323-Project-3--34343962
 <br /> Project 4: https://github.com/Kgopolang/-CMPG-323-Project-4---34343962
