@@ -4,10 +4,10 @@
 
 ## Repositories For Projects:
 <br />  Project 1: CMPG-323-Overview---34343962
-<br />  Project 2: CMPG 323 Project 2 - 34343962
-<br /> Project 3: CMPG 323 Project 3 - 34343962
-<br /> Project 4: CMPG 323 Project 3 - 34343962
-<br /> Project 5: CMPG 323 Project 3 - 34343962
+<br />  Project 2: https://github.com/Kgopolang/CMPG-323-Project-2--34343962
+<br /> Project 3: https://github.com/Kgopolang/CMPG-323-Project-3--34343962
+<br /> Project 4: https://github.com/Kgopolang/-CMPG-323-Project-4---34343962
+<br /> Project 5: https://github.com/Kgopolang/CMPG-323-Project-5--34343962
 
 <br /> For each project submission, an url link of each repository will be copied from Github and pasted on the forms for successful submissions. There will be 5 repositories under 1 project. Each repository represents 5 projects.
 
